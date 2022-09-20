@@ -1,0 +1,24 @@
+||| IMPORTANT: |||
+
+- This webpage is inspired from Ableton Live webpage. Here: < https://www.ableton.com/en/live/ >
+- You can find my version of the website online on my github. Here: < https://laliane667.github.io/live/ >
+
+- All html, css and js is written by me (Elian Lamouroux) but images, text content and videos
+are took from internet.
+- Audios were created by me using ableton live app.
+
+-Issue with my website:
+    1/ I did not develop this website for mobile screen resolution so please open it on a computer :)
+    2/ I wanted to use iframe for youtube video preview and it worked BUT it generated lot of errors in console so I removed it
+
+- Find below most important resources I used for this project:
+
+    1/ For HTML and CSS knowledge: < https://www.w3schools.com/ >
+    2/ How to create fancy Navigation Bar: < https://youtu.be/FazgJVnrVuI >
+    3/ How to create favicon: < https://www.metatags.org/seo-tips/design-tips/favicon-ico/ > 
+    4/ How to create play/pause function for audio, thanks to Vanidia Fortes at: < https://stackoverflow.com/questions/39161487/how-to-play-sound-through-html-buttons >
+    5/ List of all country for dropdown in contact.html: < https://www.exeideas.com/2016/07/list-of-all-world-countries.html >
+
+
+    
+
